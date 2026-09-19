@@ -140,7 +140,7 @@ The project produces:
 4. New prediction point
 
 ## 👩‍💻 Author
+Ramprasanna J P
 
-**Deepasri J P**
 
-B.Sc. Computer Science
+
